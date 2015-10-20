@@ -4,6 +4,8 @@ Node_scrape
 A webscraper using Node.js
 --------------------------
 
+This example is from Scotch.io and scrapes imdb on the "Anchorman" movie page.
+
 After install...
 * npm install
 * node server
